@@ -1,0 +1,11 @@
+INSERT INTO area (areaID, area_name, geolocationLD, geolocationRU) VALUES (1, ' Œ–ƒŒÕ', POINT(0, 0), POINT(6, 6));
+INSERT INTO area (areaID, area_name, geolocationLD, geolocationRU) VALUES (2, '¡ŒÀŒ“Œ', POINT(6, 0), POINT(14, 10));
+INSERT INTO area (areaID, area_name, geolocationLD, geolocationRU) VALUES (3, 'ﬂÕ“¿–‹', POINT(14, 0), POINT(20, 8));
+INSERT INTO area (areaID, area_name, geolocationLD, geolocationRU) VALUES (4, '◊¿›—', POINT(20, 0), POINT(30, 8));
+INSERT INTO area (areaID, area_name, geolocationLD, geolocationRU) VALUES (5, 'À»Ã¿Õ— ', POINT(0, 6), POINT(6, 16));
+INSERT INTO area (areaID, area_name, geolocationLD, geolocationRU) VALUES (6, '—¬¿À ¿', POINT(6, 10), POINT(18, 16));
+INSERT INTO area (areaID, area_name, geolocationLD, geolocationRU) VALUES (7, 'œŒƒ«≈Ã≈À‹≈', POINT(14, 8), POINT(18, 10));
+INSERT INTO area (areaID, area_name, geolocationLD, geolocationRU) VALUES (8, 'Õ»»', POINT(18, 8), POINT(22, 16));
+INSERT INTO area (areaID, area_name, geolocationLD, geolocationRU) VALUES (9, '–€∆»… À≈—', POINT(22, 8), POINT(30, 20));
+INSERT INTO area (areaID, area_name, geolocationLD, geolocationRU) VALUES (10, '“®ÃÕ¿ﬂ ƒŒÀ»Õ¿', POINT(0, 16), POINT(16, 20));
+INSERT INTO area (areaID, area_name, geolocationLD, geolocationRU) VALUES (11, '— À¿ƒ€', POINT(16, 16), POINT(22, 20));

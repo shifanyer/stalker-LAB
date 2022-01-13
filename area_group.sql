@@ -1,0 +1,10 @@
+INSERT INTO area_group (areaID, groupID) VALUES (1, 1);
+INSERT INTO area_group (areaID, groupID) VALUES (2, 9);
+INSERT INTO area_group (areaID, groupID) VALUES (3, 7);
+INSERT INTO area_group (areaID, groupID) VALUES (4, 8);
+INSERT INTO area_group (areaID, groupID) VALUES (5, 2);
+INSERT INTO area_group (areaID, groupID) VALUES (6, 4);
+INSERT INTO area_group (areaID, groupID) VALUES (7, 8);
+INSERT INTO area_group (areaID, groupID) VALUES (9, 3);
+INSERT INTO area_group (areaID, groupID) VALUES (10, 5);
+INSERT INTO area_group (areaID, groupID) VALUES (11, 6);
